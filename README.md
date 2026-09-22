@@ -31,6 +31,18 @@ Tenho conhecimentos e experiências relacionados à agricultura de precisão, cl
 - CSS
 - SQL
 
+## 🌾 Formação Complementar
+
+### Classificação e Armazenamento de Grãos
+
+Formação complementar realizada pelo SENAR, com capacitações relacionadas à classificação, qualidade e armazenamento de grãos.
+
+- 🌽 **Classificador de Grãos – Milho e Soja:** 24 horas
+- 🌾 **Classificador de Grãos – Trigo:** 8 horas
+- 📦 **Armazenamento de Grãos em Sacarias:** 8 horas
+
+🔗 [Ver certificados e detalhes da formação](https://github.com/aknory078/projetos-agronomia/tree/main/classificacao-e-armazenamento-de-graos)
+
 ## 🚀 Projetos em destaque
 
 ### 📌 Portfólio Profissional
